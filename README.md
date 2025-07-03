@@ -27,5 +27,6 @@ This project analyzes sales data from a small electronics shop using Python, SQL
 - Table: Product-wise total quantity and revenue
 - Chart: Bar graph showing revenue by product
 
-- **Submitted by: Yeshahswini G**
+---
 
+**Submitted by: Yeshahswini G**
